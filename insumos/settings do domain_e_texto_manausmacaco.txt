@@ -1,0 +1,23 @@
+Caro(a) Cliente,
+
+
+Reenvio de Senha - MANAUSMACACO.COM
+=============================================================
+
+Conforme solicitado, estamos enviando os dados de acesso à Central
+do cliente para gerenciamento de seus domínios.
+
+   Login: manausmacaco12345
+   Senha: af60i30o
+
+Se possuir qualquer dúvida, fique à vontade
+para manter contato.
+
+Atenciosamente,
+Suporte Hosted
+
+=============================================================
+Hosted: http://www.hosted.com.br
+=============================================================
+Central de Suporte: http://suporte.hosted.com.br/
+Central do Assinante: http://www.hosted.com.br/central
